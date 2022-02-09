@@ -14,4 +14,4 @@
 ## Examples of other valid options; For more, please view the user guide
 ### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
 
-java -jar RepoSense.jar --config ./configs --since 01/12/2020 --timezone UTC+08
+java -jar RepoSense.jar --config ./configs --since 01/12/2021 --timezone UTC+08
